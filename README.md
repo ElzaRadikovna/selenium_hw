@@ -1,0 +1,1 @@
+CI [![Build status](https://ci.appveyor.com/api/projects/status/1egywybgkmpjf73l?svg=true)](https://ci.appveyor.com/project/ElzaRadikovna/selenium-myhw)
